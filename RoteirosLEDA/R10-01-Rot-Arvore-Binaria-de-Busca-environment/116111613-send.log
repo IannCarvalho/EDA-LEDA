@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-05T16:06:59.818-0300</date>
+  <logger>IANN CARVALHO BARBOSA</logger>
+  <level>FINE</level>
+  <message>File 116111613-IANN CARVALHO BARBOSA.zip was received. It was sent by IANN CARVALHO BARBOSA from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-06T15:05:50.780-0300</date>
+  <logger>IANN CARVALHO BARBOSA</logger>
+  <level>FINE</level>
+  <message>File 116111613-IANN CARVALHO BARBOSA.zip was received. It was sent by IANN CARVALHO BARBOSA from IP 127.0.1.1</message>
+</record>
